@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "axios": "^1.2.1",
+    "chalk": "^4.1.2",
+    "chrome-paths": "^1.0.1",
+    "delay": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "minimist": "^1.2.8",
+    "node-fetch": "^2.6.0",
+    "node-random-name": "^1.0.1",
+    "node-unique-machine-id": "^1.1.0",
+    "path": "^0.12.7",
+    "punycode": "^2.3.1",
+    "puppeteer": "^19.7.1",
+    "random-name": "^0.1.2",
+    "readline-sync": "^1.4.10",
+    "table": "^6.8.1",
+    "uuid": "^9.0.1"
+  }
+}
